@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**imroshanyadav/imroshanyadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a first-year student in Robotics and AI at YMCA University. Passionate about robotics, machine learning, and exploring new technologies!
 
-Here are some ideas to get you started:
+- 🌱 Currently learning Python, C++, and foundational AI concepts
+- 🤖 Exploring beginner projects in robotics and AI
+- 🚀 Excited to share my journey as I learn and build in Robotics and AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages & Tools:
+![Python](https://img.shields.io/badge/-Python-blue)
+![C++](https://img.shields.io/badge/-C++-orange)
+![Git](https://img.shields.io/badge/-Git-red)
+![Linux](https://img.shields.io/badge/-Linux-yellow)
+
+
+### Goals for 2024:
+- Complete beginner projects in robotics
+- Contribute to open-source AI projects
+- Enhance programming skills in Python and C++
