@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I’m a first-year student in Robotics and AI at YMCA University, passionate about robotics, AI, and innovative tech. I'm currently exploring foundational concepts and beginner projects, while documenting my learning journey!
+I’m a Second -year student in Robotics and AI at YMCA University, passionate about robotics, AI, and innovative tech. I'm currently exploring foundational concepts and beginner projects, while documenting my learning journey!
 
 ### 🌱 Currently Learning:
 - Programming Languages: **Python** and **C++**
